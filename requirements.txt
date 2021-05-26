@@ -1,0 +1,7 @@
+prettytable==2.1.0
+xlrd
+openpyxl
+swifter==1.0.7
+statsmodels==0.12.2
+import-ipynb
+imbalanced-learn
